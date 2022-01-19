@@ -17,7 +17,7 @@ export default function Introduction() {
                         <h1><mark>A Front-end Developer</mark></h1>
                     </div>
                        
-                    <img class="avatar" src={images+"/images/avatar"} alt='avatar'/>
+                    <img class="avatar" src={images+"/images/avatar.JPG"} alt='avatar'/>
                     
                    
                 </div>
