@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import avatar from './images/avatar.JPG';
-import Particles from "react-tsparticles";
 import './styles.scss';
 
 
