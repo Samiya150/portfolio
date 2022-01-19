@@ -66,7 +66,7 @@ function App() {
               enable: true,
               outMode: "bounce",
               random: false,
-              speed: 5,
+              speed: 0.5,
               straight: false,
             },
             number: {
