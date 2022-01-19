@@ -5,6 +5,7 @@ import './styles.scss';
 
 
 export default function Introduction() {
+    const images=process.env.REACT_APP_FOR_PATH;
     return (
         <div class="page">
           
@@ -16,7 +17,7 @@ export default function Introduction() {
                         <h1><mark>A Front-end Developer</mark></h1>
                     </div>
                        
-                    <img class="avatar" src={avatar} alt='avatar'/>
+                    <img class="avatar" src={images+"/images/avatar"} alt='avatar'/>
                     
                    
                 </div>
